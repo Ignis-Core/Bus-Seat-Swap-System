@@ -1,11 +1,22 @@
 
-  # Bus Ticket Resale Platform UI
+  # 🚌 Bus Seat Swap / Ticket Resale System
 
-  This is a code bundle for Bus Ticket Resale Platform UI. The original project is available at https://www.figma.com/design/8JJx76e3QyyYDX5Gyaaz01/Bus-Ticket-Resale-Platform-UI.
+## 📌 Overview
+This project is a frontend application for a bus ticket resale and seat swap system. It allows users to browse available tickets, request seat swaps, and manage bookings through a clean and intuitive UI.
 
-  ## Running the code
+## 🚀 Features
+- Browse available bus tickets
+- Request and manage seat swaps
+- User authentication interface
+- Payment and booking flow UI
+- Responsive and modern design
 
-  Run `npm i` to install the dependencies.
+## 🛠 Tech Stack
+- React (Vite)
+- Tailwind CSS
+- shadcn/ui components
 
-  Run `npm run dev` to start the development server.
-  
+## ▶️ Run Locally
+```bash
+npm install
+npm run dev
